@@ -1,0 +1,15 @@
+{
+  "name": "specbook",
+  "version": "0.1.0",
+  "description": "Team specification management for vibe-coding collaboration. Create ideas, fetch project context, and sync specs.",
+  "author": {
+    "name": "Frank Shi",
+    "email": "oldcitystal@gmail.com",
+    "url": "https://github.com/Lightblues"
+  },
+  "homepage": "http://9.135.1.140:3311",
+  "repository": "https://github.com/Lightblues/specbook",
+  "license": "MIT",
+  "keywords": ["specbook", "vibe-coding", "specification", "collaboration", "team"],
+  "skills": "./plugin/skills/"
+}
