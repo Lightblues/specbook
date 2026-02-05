@@ -8,10 +8,10 @@ Claude Code plugin for team specification management and vibe-coding collaborati
 
 ```bash
 # Add marketplace (one-time)
-/plugin marketplace add Lightblues/easons_agent
+/plugin marketplace add Lightblues/specbook
 
 # Install plugin
-/plugin install specbook@Lightblues/easons_agent
+/plugin install specbook@specbook
 ```
 
 ### From Local Path
