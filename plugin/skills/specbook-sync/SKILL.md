@@ -1,7 +1,6 @@
 ---
 name: specbook-sync
 description: Update project specs based on discussed ideas. Use after reaching consensus on ideas to formalize them into specs.
-disable-model-invocation: true
 allowed-tools: Bash(curl *), Read(~/.specbook/credentials.json)
 argument-hint: <project-slug>
 ---

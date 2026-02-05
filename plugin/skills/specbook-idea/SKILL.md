@@ -1,7 +1,6 @@
 ---
 name: specbook-idea
 description: Discuss and create an idea on Specbook. Use when user wants to share a thought, proposal, or feature idea with their team.
-disable-model-invocation: true
 allowed-tools: Bash(curl *), Read(~/.specbook/credentials.json)
 argument-hint: [project-slug]
 ---
