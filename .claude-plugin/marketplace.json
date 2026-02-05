@@ -4,11 +4,14 @@
     "name": "Frank Shi",
     "email": "oldcitystal@gmail.com"
   },
+  "metadata": {
+    "description": "Team specification management for vibe-coding collaboration"
+  },
   "plugins": [
     {
       "name": "specbook",
-      "source": ".",
-      "description": "Team specification management for vibe-coding collaboration",
+      "source": "./",
+      "description": "Team specification management for vibe-coding collaboration. Create ideas, fetch project context, and sync specs.",
       "version": "0.1.0"
     }
   ]
