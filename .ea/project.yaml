@@ -1,0 +1,8 @@
+name: specbook
+category: agent
+origin: original
+scope: work
+status: experiment
+stack: [nodejs, express, nextjs, postgresql]
+port: 3310
+description: Team spec & idea management platform for vibe-coding collaboration
